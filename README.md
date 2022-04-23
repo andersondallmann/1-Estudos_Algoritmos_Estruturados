@@ -4,5 +4,7 @@ Data: 23/04/2022
 
 Segue abaixo alguns tópicos estudados:
 Programa usado: Visual G 3.0
-- 
+- Condições lógicas
+- Funções
+- Procedimentos
 

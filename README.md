@@ -1,2 +1,8 @@
-# 1-Estudos_Algoritmos_Estruturados
-Estudos de algoritmos e estrutura de dados
+# 1-Lógica de Programação e Algoritmos II
+
+Data: 23/04/2022
+
+Segue abaixo alguns tópicos estudados:
+Programa usado: Visual G 3.0
+- 
+
